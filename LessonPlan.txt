@@ -1,0 +1,18 @@
+Pimped Up Python:
+Lesson 1: Simple Input, output and variable usage
+Lesson 2: Understanding simple Data Types
+Lesson 3: If Statements, Execution flow and naming convention
+Lesson 4: While Loops and Evaluation
+Lesson 5: Simple Arrays
+Lesson 6: For Loops
+Lesson 7: Functions
+Lesson 8: Simple Classes
+Lesson 9: Importing Modules
+Lesson 10: More Modules!
+
+BTEC C#:
+Lesson 1: Hello World: Input and Output
+Lesson 2: Functions and variables
+Lesson 3: For and While Loops
+Lesson 4: Switch Statements
+Lesson 5: Windows Forms

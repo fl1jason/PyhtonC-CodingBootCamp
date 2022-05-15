@@ -1,0 +1,21 @@
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.deps.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.runtimeconfig.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.runtimeconfig.dev.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.pdb
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.AssemblyInfoInputs.cache
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.AssemblyInfo.cs
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.pdb
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.deps.json
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.runtimeconfig.json
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.runtimeconfig.dev.json
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.dll
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/bin/Debug/netcoreapp3.0/Lesson3.pdb
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.csprojAssemblyReference.cache
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.AssemblyInfoInputs.cache
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.AssemblyInfo.cs
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.dll
+/Users/jasonsammon/Desktop/Code Camp/C#/Lesson3/obj/Debug/netcoreapp3.0/Lesson3.pdb

@@ -1,0 +1,11 @@
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/obj/Debug/netcoreapp3.0/Lesson2.csprojAssemblyReference.cache
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/obj/Debug/netcoreapp3.0/Lesson2.AssemblyInfoInputs.cache
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/obj/Debug/netcoreapp3.0/Lesson2.AssemblyInfo.cs
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2.deps.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2.runtimeconfig.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2.runtimeconfig.dev.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/bin/Debug/netcoreapp3.0/Lesson2.pdb
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/obj/Debug/netcoreapp3.0/Lesson2.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson2/obj/Debug/netcoreapp3.0/Lesson2.pdb

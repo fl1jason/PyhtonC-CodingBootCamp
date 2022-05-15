@@ -1,0 +1,11 @@
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4.deps.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4.runtimeconfig.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4.runtimeconfig.dev.json
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/bin/Debug/netcoreapp3.0/Lesson4.pdb
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/obj/Debug/netcoreapp3.0/Lesson4.csprojAssemblyReference.cache
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/obj/Debug/netcoreapp3.0/Lesson4.AssemblyInfoInputs.cache
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/obj/Debug/netcoreapp3.0/Lesson4.AssemblyInfo.cs
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/obj/Debug/netcoreapp3.0/Lesson4.dll
+/Users/jasonsammon/Projects/CodeCamp/Lesson4/obj/Debug/netcoreapp3.0/Lesson4.pdb
